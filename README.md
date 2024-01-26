@@ -1,1 +1,2 @@
 # LibraryProject
+Developed a C++ dictionary library using linked lists for university project, facilitating efficient word lookup and synonym/antonym retrieval. Implemented robust algorithms to handle duplicates and enable dynamic addition/removal of entries. Leveraged both singly and doubly linked lists for optimized data management. Demonstrated proficiency in C++ programming, data structures, and algorithm design while showcasing ability to execute complex software projects effectively
